@@ -1,0 +1,138 @@
+{
+  "artifacts": [
+    {
+      "kind": "files",
+      "path": ".ai/retrieval/44c4ce057952e1d8/files-0001.jsonl",
+      "rows": 3,
+      "sha256": "439d5e3ac2787f03fb2f19ea28f89bd6e22184c56944ae4bb8026a78d75aa252"
+    },
+    {
+      "kind": "headings",
+      "path": ".ai/retrieval/44c4ce057952e1d8/headings-0001.jsonl",
+      "rows": 2,
+      "sha256": "aa8150ee4002262440a5509425b742920f65762e3edaa1a9ed3dbed93d9dc009"
+    },
+    {
+      "kind": "route",
+      "path": ".ai/retrieval/44c4ce057952e1d8/ROUTE.md",
+      "sha256": "f52d3b8fb8895a1530a09a34a6e4a3b848c17bfda91b4bdb61aadf4bf87f71cf"
+    },
+    {
+      "kind": "files",
+      "path": ".ai/retrieval/bdcc6a2a85f645f6/files-0001.jsonl",
+      "rows": 1,
+      "sha256": "36c8849e515412b88c46787a1dba155be2ba34e9feb28561dbde46f47647c6fa"
+    },
+    {
+      "kind": "route",
+      "path": ".ai/retrieval/bdcc6a2a85f645f6/ROUTE.md",
+      "sha256": "0e416bfb42957b82570be1ded9ef35bdc6aaedb900c4aea9f3df6a51c01d4379"
+    },
+    {
+      "kind": "files",
+      "path": ".ai/retrieval/25a6634263c1b1f6/files-0001.jsonl",
+      "rows": 20,
+      "sha256": "0768ac669f52258de7a5f048cc047e915f968bad70b9dd53c52d08c22b89fda4"
+    },
+    {
+      "kind": "symbols",
+      "path": ".ai/retrieval/25a6634263c1b1f6/symbols-0001.jsonl",
+      "rows": 61,
+      "sha256": "130f638790b6e8370b3d23376f79a042746a473053c43989cb8ecd21f62fbb73"
+    },
+    {
+      "kind": "symbols",
+      "path": ".ai/retrieval/25a6634263c1b1f6/symbols-0002.jsonl",
+      "rows": 61,
+      "sha256": "924201f2f48630def6c40a6696b699971d92d5d1d7b6593aa22c80741d89d69c"
+    },
+    {
+      "kind": "symbols",
+      "path": ".ai/retrieval/25a6634263c1b1f6/symbols-0003.jsonl",
+      "rows": 62,
+      "sha256": "6887b9d3cbc8ac2502f02cc51a640ff1fb2201e95a02cfa261881ae1ea4d506d"
+    },
+    {
+      "kind": "symbols",
+      "path": ".ai/retrieval/25a6634263c1b1f6/symbols-0004.jsonl",
+      "rows": 62,
+      "sha256": "87981c7704912ed62e37ca50d227c02444066787559f22b6766f0b6a7e56029c"
+    },
+    {
+      "kind": "symbols",
+      "path": ".ai/retrieval/25a6634263c1b1f6/symbols-0005.jsonl",
+      "rows": 62,
+      "sha256": "60d4d8edc5cdc3518f332750a62dcb17eea8a1faef270a9df1585ca64f2995b4"
+    },
+    {
+      "kind": "symbols",
+      "path": ".ai/retrieval/25a6634263c1b1f6/symbols-0006.jsonl",
+      "rows": 67,
+      "sha256": "8463f13a3a109cc7030cdccc68bffbe200bf563db0627ec2728bf24d808ab8b3"
+    },
+    {
+      "kind": "symbols",
+      "path": ".ai/retrieval/25a6634263c1b1f6/symbols-0007.jsonl",
+      "rows": 66,
+      "sha256": "65d707218c48659abffaab73a2aa99603022ba97c98168b2f61b4c04d32ebf68"
+    },
+    {
+      "kind": "symbols",
+      "path": ".ai/retrieval/25a6634263c1b1f6/symbols-0008.jsonl",
+      "rows": 64,
+      "sha256": "6b2a08d6272fc968d737e1c28c997f52e6d384bf360e455ce9186ea563f4318a"
+    },
+    {
+      "kind": "symbols",
+      "path": ".ai/retrieval/25a6634263c1b1f6/symbols-0009.jsonl",
+      "rows": 27,
+      "sha256": "9898285afa7ced4881ee351538b2129f13e034ff0177f5249241268483425ada"
+    },
+    {
+      "kind": "route",
+      "path": ".ai/retrieval/25a6634263c1b1f6/ROUTE.md",
+      "sha256": "9fa0f91d9a5607520572cbc1f05797917a858299162240db25ad3bf0b20a1827"
+    }
+  ],
+  "coverage": {
+    "inventory-only": 15,
+    "text-scanned": 9
+  },
+  "derived_exclusions": [
+    ".ai/INDEX.md",
+    ".ai/retrieval/**"
+  ],
+  "files": 24,
+  "max_page_bytes": 16000,
+  "max_text_bytes": 8388608,
+  "ref": "master",
+  "repository": "Otdel1C/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x",
+  "routes": [
+    {
+      "area": "(root)",
+      "files": 3,
+      "headings": 2,
+      "path": ".ai/retrieval/44c4ce057952e1d8/ROUTE.md",
+      "symbols": 0
+    },
+    {
+      "area": ".github",
+      "files": 1,
+      "headings": 0,
+      "path": ".ai/retrieval/bdcc6a2a85f645f6/ROUTE.md",
+      "symbols": 0
+    },
+    {
+      "area": "src",
+      "files": 20,
+      "headings": 0,
+      "path": ".ai/retrieval/25a6634263c1b1f6/ROUTE.md",
+      "symbols": 532
+    }
+  ],
+  "schema": 1,
+  "scope": "All tracked paths at source_commit; bounded textual navigation, not a code audit.",
+  "source_commit": "a59254bf16aba30a8bef3b41c2ed081d6ab74da6",
+  "source_digest": "010086134cd467e15dd5f794e0a0facc8b20e570f790d2e8880e4f94231ad518",
+  "version": "1.0.0"
+}
