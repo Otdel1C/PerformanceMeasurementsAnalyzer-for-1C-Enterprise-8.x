@@ -7,6 +7,7 @@ on:
       - '.ai/INDEX.md'
       - '.ai/retrieval/**'
   workflow_dispatch:
+  workflow_call:
 
 permissions:
   contents: write
