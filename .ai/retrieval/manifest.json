@@ -20,13 +20,19 @@
     {
       "kind": "files",
       "path": ".ai/retrieval/bdcc6a2a85f645f6/files-0001.jsonl",
-      "rows": 1,
-      "sha256": "bc0d7e1bd297cdcab2705279c0cd5cc6bddad22d9393e47d6fd05d95a7f341d7"
+      "rows": 2,
+      "sha256": "50f400162725b907c35ada8e6fb5ecec9e4e3a1d5a83c7ef65cd80397c8f3ad0"
+    },
+    {
+      "kind": "symbols",
+      "path": ".ai/retrieval/bdcc6a2a85f645f6/symbols-0001.jsonl",
+      "rows": 17,
+      "sha256": "27f65bc8f4d92d787b6d20df8d8ddb7ceaf732e21e07bba33743f9a0f367eaeb"
     },
     {
       "kind": "route",
       "path": ".ai/retrieval/bdcc6a2a85f645f6/ROUTE.md",
-      "sha256": "0e416bfb42957b82570be1ded9ef35bdc6aaedb900c4aea9f3df6a51c01d4379"
+      "sha256": "4b4bb2b6a4640c74079c2960629da33ebd94a15f140c1ae1f2564f3c1be3fee2"
     },
     {
       "kind": "files",
@@ -96,16 +102,16 @@
   ],
   "coverage": {
     "inventory-only": 15,
-    "text-scanned": 9
+    "text-scanned": 10
   },
   "derived_exclusions": [
     ".ai/INDEX.md",
     ".ai/retrieval/**"
   ],
-  "files": 24,
+  "files": 25,
   "max_page_bytes": 16000,
   "max_text_bytes": 8388608,
-  "ref": "master",
+  "ref": "fix/retrieval-integrity-20261005",
   "repository": "Otdel1C/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x",
   "routes": [
     {
@@ -117,10 +123,10 @@
     },
     {
       "area": ".github",
-      "files": 1,
+      "files": 2,
       "headings": 0,
       "path": ".ai/retrieval/bdcc6a2a85f645f6/ROUTE.md",
-      "symbols": 0
+      "symbols": 17
     },
     {
       "area": "src",
@@ -132,7 +138,7 @@
   ],
   "schema": 1,
   "scope": "All tracked paths at source_commit; bounded textual navigation, not a code audit.",
-  "source_commit": "076f9aeeb8327f3b5934b60120c056ec31e1c4b6",
-  "source_digest": "b2f6c3fe751774bab7d2d4d790c32dd68765ac2dcadee98bdd4a63e2732f718f",
+  "source_commit": "bbe1e54374b1a4f62aa341374fe08d7974a1e8f8",
+  "source_digest": "917c3d6ce968dc9ce2067ec84fb13315e58e0a3656e4b1734b4119eb34abeb49",
   "version": "1.0.0"
 }
