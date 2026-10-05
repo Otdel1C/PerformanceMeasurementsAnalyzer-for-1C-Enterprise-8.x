@@ -1,7 +1,7 @@
 # Repository retrieval entry
 
-Repository: `Otdel1C/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x`. Ref: `fix/retrieval-integrity-20261005`. Engine: `1.1.0`.
-Source commit: `29cb6a1e39ff17718f90e9f8410a34481bb1b90c`.
+Repository: `Otdel1C/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x`. Ref: `master`. Engine: `1.1.0`.
+Source commit: `2bed2f87c025a00420b0ed1a7a8f9040f289cfac`.
 Source digest: `77e546d7caa71ed1d0032c4d665a15c71f22c55f8929a777e3014db639e65471`.
 
 ## Read contract

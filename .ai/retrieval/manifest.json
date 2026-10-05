@@ -117,10 +117,10 @@
       "sha256": "9fa0f91d9a5607520572cbc1f05797917a858299162240db25ad3bf0b20a1827"
     },
     {
-      "blob": "e4b9641d14be3b99cda92443ce66a09018f42fea",
+      "blob": "ba9106ebbc02f6459e0d1d5f54313cbdca917afc",
       "kind": "entry",
       "path": ".ai/INDEX.md",
-      "sha256": "a2fda6390ab480cf880c39e5a90945bec8f475baa6c9ccc6aa54c00a6d92d83d"
+      "sha256": "09e198d087a384aa5b2b7bda0292f53934467ba504c2933fcf21934eb09c85ad"
     }
   ],
   "coverage": {
@@ -135,7 +135,7 @@
   "files": 25,
   "max_page_bytes": 16000,
   "max_text_bytes": 8388608,
-  "ref": "fix/retrieval-integrity-20261005",
+  "ref": "master",
   "repository": "Otdel1C/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x",
   "routes": [
     {
@@ -162,7 +162,7 @@
   ],
   "schema": 2,
   "scope": "All tracked paths at source_commit; bounded textual navigation, not a code audit.",
-  "source_commit": "29cb6a1e39ff17718f90e9f8410a34481bb1b90c",
+  "source_commit": "2bed2f87c025a00420b0ed1a7a8f9040f289cfac",
   "source_digest": "77e546d7caa71ed1d0032c4d665a15c71f22c55f8929a777e3014db639e65471",
   "version": "1.1.0"
 }
