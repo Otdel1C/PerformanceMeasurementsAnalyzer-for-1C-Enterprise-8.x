@@ -1,8 +1,8 @@
 # Repository retrieval entry
 
 Repository: `Otdel1C/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x`. Ref: `docs/quickstart-performance-analysis`. Engine: `1.1.0`.
-Source commit: `4e4efac37cb9940fb7d78b3f69c13596fbb4d769`.
-Source digest: `82d06a96d0b607eb68578864d2301e3625555b54426a415f27fc9c1c24dad4fc`.
+Source commit: `23c931ea34c5e6e5fb248b88c20624ed3c0a3857`.
+Source digest: `2070376edbc748f2856a6b6cbd31bc792be947725fe515a4f71767ae493c0b99`.
 
 ## Read contract
 
