@@ -41,18 +41,18 @@
       "sha256": "4b4bb2b6a4640c74079c2960629da33ebd94a15f140c1ae1f2564f3c1be3fee2"
     },
     {
-      "blob": "f40d1e5153cec0cf0d35a02eb7c8e8f87a83dec9",
+      "blob": "d80847dbc60a076b835dedb11698cdc118329bff",
       "kind": "files",
       "path": ".ai/retrieval/25a6634263c1b1f6/files-0001.jsonl",
       "rows": 20,
-      "sha256": "6c3f8b57baa2b9bdebb1dd3c898387a741a3c708c8d98d8e9c301b74a2e7ffbc"
+      "sha256": "c699bb774645430ecf438b06db0cc17d97376cb1d900dd11279b87d4425ca002"
     },
     {
-      "blob": "b2cb41df7749cf8ee468c519a97db63134d3285d",
+      "blob": "c60f2a36ff6f058a360b37f11b25df3674fd59fd",
       "kind": "symbols",
       "path": ".ai/retrieval/25a6634263c1b1f6/symbols-0001.jsonl",
       "rows": 61,
-      "sha256": "a08f1dcfe8a51c1bf804a418507315a1808ee095cb88e4362880361a27a04d60"
+      "sha256": "d0bffeca272c3c9a1bdb9cc501605e9e83ccdc320f71e71e5517be5fbcd1ce01"
     },
     {
       "blob": "e17dc1c2267afeca76a458b8efb9001a603f566f",
@@ -117,10 +117,10 @@
       "sha256": "9474d13cea35b64a3a8dbe2d40a4b6553382570fd1d5e38864cf30a7f151d812"
     },
     {
-      "blob": "6f262530ae2a034f12b0ac9c32f0ef14fe16094e",
+      "blob": "c552bdd022e197b4f0d2a8d6e487f5b02c2499c1",
       "kind": "entry",
       "path": ".ai/INDEX.md",
-      "sha256": "672bde89a127159d7637e2771faccb3eeff9cb8a7af66bcf8c32593583c7ce39"
+      "sha256": "983bee28f2d4eee4d9364c68c06dd7a6721d0564414322d11e49b6403dae7a86"
     }
   ],
   "coverage": {
@@ -162,7 +162,7 @@
   ],
   "schema": 2,
   "scope": "All tracked paths at source_commit; bounded textual navigation, not a code audit.",
-  "source_commit": "2bea34372aa5a4aad075e79734521503a6323d65",
-  "source_digest": "bdbe3adb3bd973ea66680a22bb23520a8daf74205a2ba3e3d8667c700169676f",
+  "source_commit": "a997cbc91aef705385bc28675a8504468951846c",
+  "source_digest": "5090edc6cae9dbad1a1ef73dcd80f0dfc4bc27487a3b51653ea417b61034b418",
   "version": "1.1.0"
 }

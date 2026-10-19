@@ -1,8 +1,8 @@
 # Repository retrieval entry
 
 Repository: `Otdel1C/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x`. Ref: `feature/performance-report-diagnostics`. Engine: `1.1.0`.
-Source commit: `2bea34372aa5a4aad075e79734521503a6323d65`.
-Source digest: `bdbe3adb3bd973ea66680a22bb23520a8daf74205a2ba3e3d8667c700169676f`.
+Source commit: `a997cbc91aef705385bc28675a8504468951846c`.
+Source digest: `5090edc6cae9dbad1a1ef73dcd80f0dfc4bc27487a3b51653ea417b61034b418`.
 
 ## Read contract
 
