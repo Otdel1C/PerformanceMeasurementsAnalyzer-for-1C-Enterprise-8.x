@@ -1,3 +1,5 @@
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":1892,"kind":"Процедура","line":1890,"name":"СоставГруппировкиПередУдалением","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":1908,"kind":"Процедура","line":1895,"name":"СоставГруппировкиТипГруппировкиПриИзменении","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":1924,"kind":"Процедура","line":1911,"name":"СоставГруппировкиТипДополненияПриИзменении","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":1929,"kind":"Процедура","line":1927,"name":"СоставГруппировки_ПереместитьВверх","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":1934,"kind":"Процедура","line":1932,"name":"СоставГруппировки_ПереместитьВниз","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
@@ -58,5 +60,3 @@
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":3336,"kind":"Процедура","line":3295,"name":"ВыбранныеПоляПередГруппировкойПолей","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":3372,"kind":"Процедура","line":3339,"name":"ИзменитьГруппировкуВыбранныхПолей","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":3395,"kind":"Процедура","line":3375,"name":"УдалитьБазовыеЭлементыГруппировкиВыбранныхПолей","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":3416,"kind":"Функция","line":3398,"name":"ЗаголовокГруппыВыбранныхПолей","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":3446,"kind":"Процедура","line":3421,"name":"ПроверитьПеретаскиваемыеСтрокиИзВыбранныхПолей","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}

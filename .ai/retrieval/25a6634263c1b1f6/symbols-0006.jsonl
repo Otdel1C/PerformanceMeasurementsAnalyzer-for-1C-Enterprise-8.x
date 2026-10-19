@@ -1,3 +1,6 @@
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":8226,"kind":"Функция","line":8210,"name":"ФрагментЗапросаЭлементаОтбора","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":8244,"kind":"Функция","line":8229,"name":"ДоступноеПолеОтбораПоЗаголовку","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":8276,"kind":"Процедура","line":8249,"name":"ОткрытьФормуНастроекДляТехническогоСпециалиста","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":8285,"kind":"Процедура","line":8279,"name":"ПриЗакрытииФормыНастроекДляТехническогоСпециалиста","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":156,"kind":"Процедура","line":33,"name":"ПриСозданииНаСервере","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":185,"kind":"Процедура","line":159,"name":"ПриОткрытии","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
@@ -61,7 +64,3 @@
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":1123,"kind":"Процедура","line":1119,"name":"ПереименоватьПоле","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":1130,"kind":"Процедура","line":1126,"name":"СнятьФильтр","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":1139,"kind":"Процедура","line":1133,"name":"Фильтровать","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":1146,"kind":"Процедура","line":1142,"name":"СортироватьПоВозрастанию","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":1153,"kind":"Процедура","line":1149,"name":"СортироватьПоУбыванию","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":1160,"kind":"Процедура","line":1156,"name":"ОчиститьОформление","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":1167,"kind":"Процедура","line":1163,"name":"ОформитьОтрицательные","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}

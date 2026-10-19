@@ -1,3 +1,7 @@
+{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":2934,"kind":"Функция","line":2927,"name":"ПредставлениеРезультатПоиска","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":2943,"kind":"Функция","line":2937,"name":"СтрокаУсловияПоиска","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":2950,"kind":"Функция","line":2946,"name":"ФорматированнаяСтрокаРезультатаПоиска","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":2959,"kind":"Функция","line":2953,"name":"ШаблонФрагментаУсловия","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":2968,"kind":"Функция","line":2962,"name":"ШаблонФрагментаСтрокиПоиска","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":2983,"kind":"Функция","line":2971,"name":"СвойстваУниверсальногоПоиска","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":3009,"kind":"Функция","line":2986,"name":"УсловиеУниверсальногоПоиска","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
@@ -58,7 +62,3 @@
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4603,"kind":"Функция","line":4589,"name":"ТребуетсяСохранитьВариант","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4635,"kind":"Процедура","line":4606,"name":"СохранитьНовыйИлиСуществующийВариантОтчетаИПродолжить","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4647,"kind":"Процедура","line":4638,"name":"Подключаемый_КомандаПослеОтветаНаВопросСохранитьВариант","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4661,"kind":"Процедура","line":4650,"name":"Подключаемый_КомандаПослеСохраненияВарианта","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4670,"kind":"Процедура","line":4664,"name":"СохранитьВариантОтчета","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4692,"kind":"Процедура","line":4673,"name":"СохранитьВариантОтчетаНаСервере","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4699,"kind":"Процедура","line":4695,"name":"ОбновитьКомандыВыбораВариантовОбработчикОжидания","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}

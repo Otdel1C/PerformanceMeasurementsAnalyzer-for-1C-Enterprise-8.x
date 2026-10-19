@@ -1,2 +1,7 @@
 {"blob":"db7c4cbedb2b6118d755c47142ad302d1f5a96e9","kind":"heading","line":1,"name":"Отчет для просмотра и анализа замеров производительности в конфигурациях на базе БСП","path":"README.md","role":"source"}
 {"blob":"db7c4cbedb2b6118d755c47142ad302d1f5a96e9","kind":"heading","line":5,"name":"[ВАЖНО!!!] Это только прототип отчета, работа над окончательной версией еще не закончены.","path":"README.md","role":"source"}
+{"blob":"1d5e318abe02ec548a421c6f89bf8c21a7165362","kind":"heading","line":1,"name":"Проверка диагностики замеров производительности","path":"verification.md","role":"source"}
+{"blob":"1d5e318abe02ec548a421c6f89bf8c21a7165362","kind":"heading","line":5,"name":"Область изменения","path":"verification.md","role":"source"}
+{"blob":"1d5e318abe02ec548a421c6f89bf8c21a7165362","kind":"heading","line":13,"name":"Подтверждено статической проверкой","path":"verification.md","role":"source"}
+{"blob":"1d5e318abe02ec548a421c6f89bf8c21a7165362","kind":"heading","line":25,"name":"Приёмочные сценарии — требуются испытания в 1С","path":"verification.md","role":"source"}
+{"blob":"1d5e318abe02ec548a421c6f89bf8c21a7165362","kind":"heading","line":41,"name":"Совместимость с параллельной доработкой","path":"verification.md","role":"source"}
