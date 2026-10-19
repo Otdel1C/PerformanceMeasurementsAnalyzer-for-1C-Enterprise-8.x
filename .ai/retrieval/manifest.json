@@ -1,24 +1,24 @@
 {
   "artifacts": [
     {
-      "blob": "2f6b3165f0c2aa48c80f18ed67334330e618a581",
+      "blob": "38cb1eda12b8595d8d9534cdeaac87e7e49995bb",
       "kind": "files",
       "path": ".ai/retrieval/44c4ce057952e1d8/files-0001.jsonl",
-      "rows": 3,
-      "sha256": "439d5e3ac2787f03fb2f19ea28f89bd6e22184c56944ae4bb8026a78d75aa252"
+      "rows": 4,
+      "sha256": "1ffbd5090732820fedfd3e5bd311b6c6dd360f3dc5521105d5f4e5eabe204b86"
     },
     {
-      "blob": "11f00bd9fbdbdd0683a992adc5c6fecb605555fa",
+      "blob": "cc934ab59547016d35cc5c4aa7c765dc4178ba67",
       "kind": "headings",
       "path": ".ai/retrieval/44c4ce057952e1d8/headings-0001.jsonl",
-      "rows": 2,
-      "sha256": "aa8150ee4002262440a5509425b742920f65762e3edaa1a9ed3dbed93d9dc009"
+      "rows": 7,
+      "sha256": "62091a51dff285274bded641b62bc685aee7bc7bfea8a0af6096ee195e412921"
     },
     {
-      "blob": "ce009a970f93ea966e905aa12e23f7680c245f2b",
+      "blob": "c27a649b51d0d5e9d2173ef1d00302ca9701ba6f",
       "kind": "route",
       "path": ".ai/retrieval/44c4ce057952e1d8/ROUTE.md",
-      "sha256": "f52d3b8fb8895a1530a09a34a6e4a3b848c17bfda91b4bdb61aadf4bf87f71cf"
+      "sha256": "7981eec07e529a41e030f078c9d6ece0e621654b73d2eaf78b2209a57d7103f2"
     },
     {
       "blob": "c25a71bffe319260194458a2ce8b978f4a4de36b",
@@ -117,22 +117,22 @@
       "sha256": "9474d13cea35b64a3a8dbe2d40a4b6553382570fd1d5e38864cf30a7f151d812"
     },
     {
-      "blob": "42248e815decb12da3ffe80f1af728aa39eb4633",
+      "blob": "342652a1bc2a6eaf37e78a5e49a3ad089a6f8a52",
       "kind": "entry",
       "path": ".ai/INDEX.md",
-      "sha256": "1a11b01bffa8ef9263cb84f8e0804376fb8be4843a5b45c49eca478f386cae1b"
+      "sha256": "d88eff65e07e286d9c93accc773c9640fa0a8cea05ab335098b1d237c1c28a75"
     }
   ],
   "coverage": {
     "inventory-only": 15,
-    "text-scanned": 10
+    "text-scanned": 11
   },
   "derived_exclusions": [
     ".ai/INDEX.md",
     ".ai/retrieval/**"
   ],
   "engine_sha256": "e8973f5bd746412df17074ea758b88deb654eaabfed374be38a799cd64dacbd1",
-  "files": 25,
+  "files": 26,
   "max_page_bytes": 16000,
   "max_text_bytes": 8388608,
   "ref": "feature/performance-report-diagnostics",
@@ -140,8 +140,8 @@
   "routes": [
     {
       "area": "(root)",
-      "files": 3,
-      "headings": 2,
+      "files": 4,
+      "headings": 7,
       "path": ".ai/retrieval/44c4ce057952e1d8/ROUTE.md",
       "symbols": 0
     },
@@ -162,7 +162,7 @@
   ],
   "schema": 2,
   "scope": "All tracked paths at source_commit; bounded textual navigation, not a code audit.",
-  "source_commit": "aaa6711e7268c72dc3527d85fd608e465574b7a9",
-  "source_digest": "5a30d4edc55ee4829bcd8bb2843fd4f0d47f7f40b5a86cda9f323a608e83b123",
+  "source_commit": "122e9df75422881b23e7c812105d1f2d070234bd",
+  "source_digest": "b35aee2b35c86ec344e6b8080a6cef28241b88d97a2a40144640f3c2058e4faf",
   "version": "1.1.0"
 }
