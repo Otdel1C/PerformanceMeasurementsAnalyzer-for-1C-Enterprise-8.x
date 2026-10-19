@@ -1,24 +1,24 @@
 {
   "artifacts": [
     {
-      "blob": "2f6b3165f0c2aa48c80f18ed67334330e618a581",
+      "blob": "80810b16dedbc635d71e948414aadc81f33ca436",
       "kind": "files",
       "path": ".ai/retrieval/44c4ce057952e1d8/files-0001.jsonl",
       "rows": 3,
-      "sha256": "439d5e3ac2787f03fb2f19ea28f89bd6e22184c56944ae4bb8026a78d75aa252"
+      "sha256": "a52127d3da6394d92f4e007a47b527aac1224f428fd9c8b850d9e9ca76373415"
     },
     {
-      "blob": "11f00bd9fbdbdd0683a992adc5c6fecb605555fa",
+      "blob": "51a915e232b1edb997af9afef2b0db60924dff80",
       "kind": "headings",
       "path": ".ai/retrieval/44c4ce057952e1d8/headings-0001.jsonl",
-      "rows": 2,
-      "sha256": "aa8150ee4002262440a5509425b742920f65762e3edaa1a9ed3dbed93d9dc009"
+      "rows": 7,
+      "sha256": "d3c0a782625d0880d923939e5a120d56cd71c02df84bcf7fdbe1bd4a1b26f79c"
     },
     {
-      "blob": "ce009a970f93ea966e905aa12e23f7680c245f2b",
+      "blob": "fd209ebcca09f0f8e22f2b3ae9a83d6b823cb366",
       "kind": "route",
       "path": ".ai/retrieval/44c4ce057952e1d8/ROUTE.md",
-      "sha256": "f52d3b8fb8895a1530a09a34a6e4a3b848c17bfda91b4bdb61aadf4bf87f71cf"
+      "sha256": "1334136a25b95280f8bd24d65581dbf370b06d04e4a86deda12f50c7af42842f"
     },
     {
       "blob": "c25a71bffe319260194458a2ce8b978f4a4de36b",
@@ -117,10 +117,10 @@
       "sha256": "9fa0f91d9a5607520572cbc1f05797917a858299162240db25ad3bf0b20a1827"
     },
     {
-      "blob": "70a7a05dd4f9e739dd884077f9bee2238204cdb6",
+      "blob": "8990a6e7ac29ad184ad9c07a429c90593f13485d",
       "kind": "entry",
       "path": ".ai/INDEX.md",
-      "sha256": "c5c93b52fa1be7397e87cc3210dd5319245b444a53c173029469375f342fcb2b"
+      "sha256": "a11bb51189e4a984aa68eab09389f98b7e4e176dcaad118f94d750107a2df263"
     }
   ],
   "coverage": {
@@ -141,7 +141,7 @@
     {
       "area": "(root)",
       "files": 3,
-      "headings": 2,
+      "headings": 7,
       "path": ".ai/retrieval/44c4ce057952e1d8/ROUTE.md",
       "symbols": 0
     },
@@ -162,7 +162,7 @@
   ],
   "schema": 2,
   "scope": "All tracked paths at source_commit; bounded textual navigation, not a code audit.",
-  "source_commit": "88299ebefd26f2bcefcdbc0ce8f55935e4e2d8b9",
-  "source_digest": "77e546d7caa71ed1d0032c4d665a15c71f22c55f8929a777e3014db639e65471",
+  "source_commit": "4e4efac37cb9940fb7d78b3f69c13596fbb4d769",
+  "source_digest": "82d06a96d0b607eb68578864d2301e3625555b54426a415f27fc9c1c24dad4fc",
   "version": "1.1.0"
 }
