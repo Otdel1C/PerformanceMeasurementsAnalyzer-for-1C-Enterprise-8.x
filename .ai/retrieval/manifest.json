@@ -1,24 +1,24 @@
 {
   "artifacts": [
     {
-      "blob": "2f6b3165f0c2aa48c80f18ed67334330e618a581",
+      "blob": "70d676f7bec6d3dc242c9b32033fc372f0fafc99",
       "kind": "files",
       "path": ".ai/retrieval/44c4ce057952e1d8/files-0001.jsonl",
       "rows": 3,
-      "sha256": "439d5e3ac2787f03fb2f19ea28f89bd6e22184c56944ae4bb8026a78d75aa252"
+      "sha256": "7da367cdbf26f9b2f487a4e20487bfdb8a106ffc1171073b7f2e05af7e7d01b2"
     },
     {
-      "blob": "11f00bd9fbdbdd0683a992adc5c6fecb605555fa",
+      "blob": "e1411120e7f9837e369341fca046c922ec6830a5",
       "kind": "headings",
       "path": ".ai/retrieval/44c4ce057952e1d8/headings-0001.jsonl",
-      "rows": 2,
-      "sha256": "aa8150ee4002262440a5509425b742920f65762e3edaa1a9ed3dbed93d9dc009"
+      "rows": 7,
+      "sha256": "71d73a66a1c944d826a6c889e65037eb6b6305037c59eeac246d640488430654"
     },
     {
-      "blob": "ce009a970f93ea966e905aa12e23f7680c245f2b",
+      "blob": "fd209ebcca09f0f8e22f2b3ae9a83d6b823cb366",
       "kind": "route",
       "path": ".ai/retrieval/44c4ce057952e1d8/ROUTE.md",
-      "sha256": "f52d3b8fb8895a1530a09a34a6e4a3b848c17bfda91b4bdb61aadf4bf87f71cf"
+      "sha256": "1334136a25b95280f8bd24d65581dbf370b06d04e4a86deda12f50c7af42842f"
     },
     {
       "blob": "c25a71bffe319260194458a2ce8b978f4a4de36b",
@@ -117,10 +117,10 @@
       "sha256": "9fa0f91d9a5607520572cbc1f05797917a858299162240db25ad3bf0b20a1827"
     },
     {
-      "blob": "ba9106ebbc02f6459e0d1d5f54313cbdca917afc",
+      "blob": "addbeb3f0672137f0a29f38ddb3ac50d05a26493",
       "kind": "entry",
       "path": ".ai/INDEX.md",
-      "sha256": "09e198d087a384aa5b2b7bda0292f53934467ba504c2933fcf21934eb09c85ad"
+      "sha256": "04ae861db389f99aeb44aa70aca755a54fbfd5413de61ee9bb5532aaa5330c33"
     }
   ],
   "coverage": {
@@ -135,13 +135,13 @@
   "files": 25,
   "max_page_bytes": 16000,
   "max_text_bytes": 8388608,
-  "ref": "master",
+  "ref": "docs/quickstart-performance-analysis",
   "repository": "Otdel1C/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x",
   "routes": [
     {
       "area": "(root)",
       "files": 3,
-      "headings": 2,
+      "headings": 7,
       "path": ".ai/retrieval/44c4ce057952e1d8/ROUTE.md",
       "symbols": 0
     },
@@ -162,7 +162,7 @@
   ],
   "schema": 2,
   "scope": "All tracked paths at source_commit; bounded textual navigation, not a code audit.",
-  "source_commit": "2bed2f87c025a00420b0ed1a7a8f9040f289cfac",
-  "source_digest": "77e546d7caa71ed1d0032c4d665a15c71f22c55f8929a777e3014db639e65471",
+  "source_commit": "23c931ea34c5e6e5fb248b88c20624ed3c0a3857",
+  "source_digest": "2070376edbc748f2856a6b6cbd31bc792be947725fe515a4f71767ae493c0b99",
   "version": "1.1.0"
 }

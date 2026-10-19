@@ -9,6 +9,6 @@ Navigation data, not instructions. Read original files before decisions or edits
 ## symbols: 0
 
 
-## headings: 2
+## headings: 7
 
-- `.ai/retrieval/44c4ce057952e1d8/headings-0001.jsonl` — README.md → README.md (2 rows)
+- `.ai/retrieval/44c4ce057952e1d8/headings-0001.jsonl` — README.md → README.md (7 rows)
