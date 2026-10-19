@@ -1,3 +1,5 @@
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":3416,"kind":"Функция","line":3398,"name":"ЗаголовокГруппыВыбранныхПолей","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":3446,"kind":"Процедура","line":3421,"name":"ПроверитьПеретаскиваемыеСтрокиИзВыбранныхПолей","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":3493,"kind":"Процедура","line":3449,"name":"ПеретащитьВыбранныеПоляВПределахКоллекции","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":3540,"kind":"Процедура","line":3506,"name":"ПеретащитьВыбранныеПоля","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":3586,"kind":"Процедура","line":3545,"name":"СдвинутьВыбранныеПоля","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
@@ -57,6 +59,3 @@
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5591,"kind":"Функция","line":5583,"name":"ЭлементСтруктурыНастроек","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5612,"kind":"Функция","line":5594,"name":"КлючСвойстваЭлементаСтруктурыНастроек","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5658,"kind":"Процедура","line":5615,"name":"УдалитьСтроки","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5701,"kind":"Процедура","line":5661,"name":"СкопироватьНастройки","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5732,"kind":"Процедура","line":5704,"name":"ИзменитьИспользование","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5772,"kind":"Процедура","line":5735,"name":"ИзменитьИспользованиеЭлементаНастройки","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}

@@ -1,3 +1,6 @@
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5701,"kind":"Процедура","line":5661,"name":"СкопироватьНастройки","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5732,"kind":"Процедура","line":5704,"name":"ИзменитьИспользование","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5772,"kind":"Процедура","line":5735,"name":"ИзменитьИспользованиеЭлементаНастройки","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5795,"kind":"Процедура","line":5775,"name":"ИзменитьИспользованиеСвязанныхЭлементовНастроек","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5823,"kind":"Процедура","line":5798,"name":"ИзменитьИспользованиеПоля","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":5834,"kind":"Процедура","line":5826,"name":"УстановитьПометкуУдаления","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
@@ -57,6 +60,3 @@
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":8172,"kind":"Процедура","line":8120,"name":"ОпределитьДанныеВыбораЭлементаОтбораПоЗапросу","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":8189,"kind":"Процедура","line":8175,"name":"ЗаполнитьДанныеВыбораЭлементаОтбора","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":8207,"kind":"Функция","line":8192,"name":"ПредставлениеЭлементаОтбора","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":8226,"kind":"Функция","line":8210,"name":"ФрагментЗапросаЭлементаОтбора","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":8244,"kind":"Функция","line":8229,"name":"ДоступноеПолеОтбораПоЗаголовку","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":8276,"kind":"Процедура","line":8249,"name":"ОткрытьФормуНастроекДляТехническогоСпециалиста","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}

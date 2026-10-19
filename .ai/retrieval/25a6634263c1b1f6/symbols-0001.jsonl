@@ -1,9 +1,11 @@
-{"blob":"1ca209fe265add7c03c423a21b4623dd65210220","end":56,"kind":"Функция","line":6,"name":"СведенияОВнешнейОбработке","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
-{"blob":"1ca209fe265add7c03c423a21b4623dd65210220","end":80,"kind":"Функция","line":60,"name":"ПолучитьНазначениеОбработки","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
-{"blob":"1ca209fe265add7c03c423a21b4623dd65210220","end":114,"kind":"Функция","line":84,"name":"ПолучитьТаблицуКомандОбработки","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
-{"blob":"1ca209fe265add7c03c423a21b4623dd65210220","end":146,"kind":"Процедура","line":118,"name":"ДобавитьКоманду","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
-{"blob":"1ca209fe265add7c03c423a21b4623dd65210220","end":155,"kind":"Процедура","line":152,"name":"ВыполнитьКоманду","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
-{"blob":"1ca209fe265add7c03c423a21b4623dd65210220","end":199,"kind":"Процедура","line":161,"name":"ПриКомпоновкеРезультата","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
+{"blob":"8ee0b7c9bc919e96f1001caee8e5d627055fa2e9","end":56,"kind":"Функция","line":6,"name":"СведенияОВнешнейОбработке","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
+{"blob":"8ee0b7c9bc919e96f1001caee8e5d627055fa2e9","end":80,"kind":"Функция","line":60,"name":"ПолучитьНазначениеОбработки","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
+{"blob":"8ee0b7c9bc919e96f1001caee8e5d627055fa2e9","end":114,"kind":"Функция","line":84,"name":"ПолучитьТаблицуКомандОбработки","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
+{"blob":"8ee0b7c9bc919e96f1001caee8e5d627055fa2e9","end":146,"kind":"Процедура","line":118,"name":"ДобавитьКоманду","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
+{"blob":"8ee0b7c9bc919e96f1001caee8e5d627055fa2e9","end":155,"kind":"Процедура","line":152,"name":"ВыполнитьКоманду","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
+{"blob":"8ee0b7c9bc919e96f1001caee8e5d627055fa2e9","end":251,"kind":"Процедура","line":161,"name":"ПриКомпоновкеРезультата","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
+{"blob":"8ee0b7c9bc919e96f1001caee8e5d627055fa2e9","end":273,"kind":"Функция","line":257,"name":"ЕстьЗамерыЗаПериод","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
+{"blob":"8ee0b7c9bc919e96f1001caee8e5d627055fa2e9","end":282,"kind":"Процедура","line":275,"name":"ВывестиСообщениеДиагностики","path":"src/АнализЗамеровПроизводительности/ObjectModule.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":125,"kind":"Процедура","line":25,"name":"ПриСозданииНаСервере","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":147,"kind":"Процедура","line":128,"name":"ПередЗагрузкойВариантаНаСервере","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":163,"kind":"Процедура","line":150,"name":"ПередЗагрузкойПользовательскихНастроекНаСервере","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
@@ -57,5 +59,3 @@
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":768,"kind":"Процедура","line":766,"name":"ВыбранныеПоля_СнятьФлажки","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":778,"kind":"Процедура","line":771,"name":"ВыбранныеПоляНачалоПеретаскивания","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":808,"kind":"Процедура","line":781,"name":"ВыбранныеПоляПроверкаПеретаскивания","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":824,"kind":"Процедура","line":811,"name":"ВыбранныеПоляПеретаскивание","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":860,"kind":"Процедура","line":827,"name":"ВыбранныеПоляОкончаниеПеретаскивания","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}

@@ -1,3 +1,5 @@
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":824,"kind":"Процедура","line":811,"name":"ВыбранныеПоляПеретаскивание","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":860,"kind":"Процедура","line":827,"name":"ВыбранныеПоляОкончаниеПеретаскивания","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":908,"kind":"Процедура","line":867,"name":"Отборы_Сгруппировать","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":956,"kind":"Процедура","line":911,"name":"Отборы_Разгруппировать","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":961,"kind":"Процедура","line":959,"name":"Отборы_ПереместитьВверх","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
@@ -57,5 +59,3 @@
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":1855,"kind":"Процедура","line":1853,"name":"СоставГруппировкиИспользованиеПриИзменении","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":1875,"kind":"Процедура","line":1858,"name":"СоставГруппировкиВыбор","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":1887,"kind":"Процедура","line":1878,"name":"СоставГруппировкиПередНачаломДобавления","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":1892,"kind":"Процедура","line":1890,"name":"СоставГруппировкиПередУдалением","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}
-{"blob":"f260fcc366b42d9d0cdc22fd51bc237505738d77","end":1908,"kind":"Процедура","line":1895,"name":"СоставГруппировкиТипГруппировкиПриИзменении","path":"src/ФормаНастроекОтчета/Ext/Form/Module.bsl","role":"source"}

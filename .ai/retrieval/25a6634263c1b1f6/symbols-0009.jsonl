@@ -1,3 +1,7 @@
+{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4661,"kind":"Процедура","line":4650,"name":"Подключаемый_КомандаПослеСохраненияВарианта","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4670,"kind":"Процедура","line":4664,"name":"СохранитьВариантОтчета","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4692,"kind":"Процедура","line":4673,"name":"СохранитьВариантОтчетаНаСервере","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
+{"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4699,"kind":"Процедура","line":4695,"name":"ОбновитьКомандыВыбораВариантовОбработчикОжидания","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4801,"kind":"Процедура","line":4702,"name":"ОбновитьКомандыВыбораВариантов","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4858,"kind":"Процедура","line":4804,"name":"ОбновитьИнформациюОВариантеОтчета","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
 {"blob":"5e5d99a8aab1f55329df2d9900a2c223b95b3212","end":4893,"kind":"Функция","line":4861,"name":"ВариантОтчетаПоСсылкеИКлючу","path":"src/ФормаОтчета/Ext/Form/Module.bsl","role":"source"}
