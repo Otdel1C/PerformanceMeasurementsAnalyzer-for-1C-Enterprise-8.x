@@ -117,10 +117,10 @@
       "sha256": "9fa0f91d9a5607520572cbc1f05797917a858299162240db25ad3bf0b20a1827"
     },
     {
-      "blob": "ba9106ebbc02f6459e0d1d5f54313cbdca917afc",
+      "blob": "8ff6c550f91d086c69ab74aeaa4b0a803aad5f62",
       "kind": "entry",
       "path": ".ai/INDEX.md",
-      "sha256": "09e198d087a384aa5b2b7bda0292f53934467ba504c2933fcf21934eb09c85ad"
+      "sha256": "c9a3cc089bf7cbc9d0eb20e45860e07ceff2c84305b297e3f4632861aa0d6a94"
     }
   ],
   "coverage": {
@@ -135,7 +135,7 @@
   "files": 25,
   "max_page_bytes": 16000,
   "max_text_bytes": 8388608,
-  "ref": "master",
+  "ref": "feature/performance-report-diagnostics",
   "repository": "Otdel1C/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x",
   "routes": [
     {
@@ -162,7 +162,7 @@
   ],
   "schema": 2,
   "scope": "All tracked paths at source_commit; bounded textual navigation, not a code audit.",
-  "source_commit": "2bed2f87c025a00420b0ed1a7a8f9040f289cfac",
+  "source_commit": "88299ebefd26f2bcefcdbc0ce8f55935e4e2d8b9",
   "source_digest": "77e546d7caa71ed1d0032c4d665a15c71f22c55f8929a777e3014db639e65471",
   "version": "1.1.0"
 }
