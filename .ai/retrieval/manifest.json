@@ -21,11 +21,11 @@
       "sha256": "f52d3b8fb8895a1530a09a34a6e4a3b848c17bfda91b4bdb61aadf4bf87f71cf"
     },
     {
-      "blob": "c25a71bffe319260194458a2ce8b978f4a4de36b",
+      "blob": "4f23584d238f7156b430f247dfea0c7b4024a5cd",
       "kind": "files",
       "path": ".ai/retrieval/bdcc6a2a85f645f6/files-0001.jsonl",
-      "rows": 2,
-      "sha256": "9d634086d8d9e3726da087bdeea2df141d76ebbda5abbab5f0d1b3665093e5b8"
+      "rows": 1,
+      "sha256": "15c5699f5779b8ae51424e5d0926ff07d4b56a38accf43d664d41c7eccd5a677"
     },
     {
       "blob": "60fb48a3751cf77b2ee7d0ed6952fc6b201e22c9",
@@ -35,10 +35,23 @@
       "sha256": "27f65bc8f4d92d787b6d20df8d8ddb7ceaf732e21e07bba33743f9a0f367eaeb"
     },
     {
-      "blob": "464f15985401b7c1916e87a489e51e3498ca3f59",
+      "blob": "adc32bb2b7e88d3b3eaba7885cbd2fbb54185c67",
       "kind": "route",
       "path": ".ai/retrieval/bdcc6a2a85f645f6/ROUTE.md",
-      "sha256": "4b4bb2b6a4640c74079c2960629da33ebd94a15f140c1ae1f2564f3c1be3fee2"
+      "sha256": "b7d7aa289f472b185b2d3cf75f23bdec7db8b7e9729fd315e53b9f2eaa56c7d9"
+    },
+    {
+      "blob": "3ea2fa2529e9917b319cea4f36af443e510162ff",
+      "kind": "files",
+      "path": ".ai/retrieval/1b158839f8aa339e/files-0001.jsonl",
+      "rows": 1,
+      "sha256": "a13d8393b98c651738dae1dd50c7fcd8c0664ebcb1b8b3439cda398d1bb4bb68"
+    },
+    {
+      "blob": "31b6d9fe3005252fa0e3c514034634f7d426e500",
+      "kind": "route",
+      "path": ".ai/retrieval/1b158839f8aa339e/ROUTE.md",
+      "sha256": "0c6727c535bc9db057219fcc2cb6617c573bd85ef05c96b8c883e51e7da4da28"
     },
     {
       "blob": "18bd996a482ed0ec25b6f1ed001eabb5fc8c635f",
@@ -117,10 +130,10 @@
       "sha256": "9fa0f91d9a5607520572cbc1f05797917a858299162240db25ad3bf0b20a1827"
     },
     {
-      "blob": "ba9106ebbc02f6459e0d1d5f54313cbdca917afc",
+      "blob": "aae4f1824a70fb8525da90ea2afcb3ced99eead3",
       "kind": "entry",
       "path": ".ai/INDEX.md",
-      "sha256": "09e198d087a384aa5b2b7bda0292f53934467ba504c2933fcf21934eb09c85ad"
+      "sha256": "67d84504a1fb8d790944fdc5b84f9bfaf79ad44124ee1fb6e3ea7a0ef7cdcb19"
     }
   ],
   "coverage": {
@@ -131,7 +144,7 @@
     ".ai/INDEX.md",
     ".ai/retrieval/**"
   ],
-  "engine_sha256": "e8973f5bd746412df17074ea758b88deb654eaabfed374be38a799cd64dacbd1",
+  "engine_sha256": "c62367e7b41dd84d6a4bd3ad96201979c35ae5996d3cf72cc4368ac39d66c536",
   "files": 25,
   "max_page_bytes": 16000,
   "max_text_bytes": 8388608,
@@ -147,10 +160,17 @@
     },
     {
       "area": ".github",
-      "files": 2,
+      "files": 1,
       "headings": 0,
       "path": ".ai/retrieval/bdcc6a2a85f645f6/ROUTE.md",
       "symbols": 17
+    },
+    {
+      "area": "ci",
+      "files": 1,
+      "headings": 0,
+      "path": ".ai/retrieval/1b158839f8aa339e/ROUTE.md",
+      "symbols": 0
     },
     {
       "area": "src",
@@ -162,7 +182,7 @@
   ],
   "schema": 2,
   "scope": "All tracked paths at source_commit; bounded textual navigation, not a code audit.",
-  "source_commit": "2bed2f87c025a00420b0ed1a7a8f9040f289cfac",
-  "source_digest": "77e546d7caa71ed1d0032c4d665a15c71f22c55f8929a777e3014db639e65471",
-  "version": "1.1.0"
+  "source_commit": "df4b9e34946f8b757605988357145c98b1eb54b3",
+  "source_digest": "9d96ad915e5ec689f891eb1cb4bdd3f8f449401fb2051eb372738a96e7fdfb91",
+  "version": "1.1.1"
 }
