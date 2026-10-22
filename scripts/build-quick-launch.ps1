@@ -88,7 +88,7 @@ try {
     $formContent=[IO.File]::ReadAllText($formXml)
     $old='<v8:Type>cfg:ReportObject</v8:Type>'
     $new='<v8:Type>cfg:ExternalReportObject.АнализЗамеровПроизводительности</v8:Type>'
-    if ($formContent.Split(@($old),[StringSplitOptions]::None).Count -ne 2) {
+    if (([regex]::Matches($formContent,[regex]::Escape($old))).Count -ne 1) {
         throw 'Unexpected form main-attribute type.'
     }
     $utf8=New-Object System.Text.UTF8Encoding($true)
