@@ -1,0 +1,17 @@
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":36,"kind":"FunctionDef","line":35,"name":"git","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":40,"kind":"FunctionDef","line":39,"name":"packed","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":44,"kind":"FunctionDef","line":43,"name":"derived","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":58,"kind":"FunctionDef","line":47,"name":"entries","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":69,"kind":"FunctionDef","line":61,"name":"decode","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":126,"kind":"FunctionDef","line":72,"name":"navigation","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":139,"kind":"FunctionDef","line":129,"name":"safe_target","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":143,"kind":"FunctionDef","line":142,"name":"source_digest","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":148,"kind":"FunctionDef","line":146,"name":"blob_id","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":152,"kind":"FunctionDef","line":151,"name":"owned_artifact","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":182,"kind":"FunctionDef","line":155,"name":"parse_manifest","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":210,"kind":"FunctionDef","line":185,"name":"previous_manifest","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":226,"kind":"FunctionDef","line":213,"name":"binding_valid","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":364,"kind":"FunctionDef","line":229,"name":"render","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":292,"kind":"FunctionDef","line":291,"name":"put","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":407,"kind":"FunctionDef","line":367,"name":"build","path":".github/retrieval_index.py","role":"source"}
+{"blob":"2499723b17eb2f73bdd336e3c52c38293e818b68","end":424,"kind":"FunctionDef","line":410,"name":"main","path":".github/retrieval_index.py","role":"source"}
