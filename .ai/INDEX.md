@@ -1,7 +1,7 @@
 # Repository retrieval entry
 
 Repository: `Otdel1C/PerformanceMeasurementsAnalyzer-for-1C-Enterprise-8.x`. Ref: `master`. Engine: `1.1.1`.
-Source commit: `df4b9e34946f8b757605988357145c98b1eb54b3`.
+Source commit: `8453a6deebb4457a1fa76feeb926a18b9637536c`.
 Source digest: `9d96ad915e5ec689f891eb1cb4bdd3f8f449401fb2051eb372738a96e7fdfb91`.
 
 ## Read contract

@@ -130,10 +130,10 @@
       "sha256": "9fa0f91d9a5607520572cbc1f05797917a858299162240db25ad3bf0b20a1827"
     },
     {
-      "blob": "aae4f1824a70fb8525da90ea2afcb3ced99eead3",
+      "blob": "70a8aa77819defb683519815fceb60f39c24a138",
       "kind": "entry",
       "path": ".ai/INDEX.md",
-      "sha256": "67d84504a1fb8d790944fdc5b84f9bfaf79ad44124ee1fb6e3ea7a0ef7cdcb19"
+      "sha256": "d022c515a1466a35c213c3d1ca7f3cc6827cfa2a042fe599effda576c58bfa0b"
     }
   ],
   "coverage": {
@@ -144,7 +144,7 @@
     ".ai/INDEX.md",
     ".ai/retrieval/**"
   ],
-  "engine_sha256": "c62367e7b41dd84d6a4bd3ad96201979c35ae5996d3cf72cc4368ac39d66c536",
+  "engine_sha256": "c865dc2f2ef50309d92e86993680b31248a02f82dcbbbfc828341e93b6a8eedf",
   "files": 25,
   "max_page_bytes": 16000,
   "max_text_bytes": 8388608,
@@ -182,7 +182,7 @@
   ],
   "schema": 2,
   "scope": "All tracked paths at source_commit; bounded textual navigation, not a code audit.",
-  "source_commit": "df4b9e34946f8b757605988357145c98b1eb54b3",
+  "source_commit": "8453a6deebb4457a1fa76feeb926a18b9637536c",
   "source_digest": "9d96ad915e5ec689f891eb1cb4bdd3f8f449401fb2051eb372738a96e7fdfb91",
   "version": "1.1.1"
 }
