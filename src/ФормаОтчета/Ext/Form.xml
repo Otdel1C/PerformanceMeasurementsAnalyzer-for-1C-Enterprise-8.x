@@ -44,6 +44,42 @@
 		<Event name="FillCheckProcessingAtServer">ОбработкаПроверкиЗаполненияНаСервере</Event>
 	</Events>
 	<ChildItems>
+		<UsualGroup name="БМ_ПанельБыстрогоЗапуска" id="2100">
+			<Title><v8:item><v8:lang>ru</v8:lang><v8:content>Быстрый запуск анализа производительности</v8:content></v8:item></Title>
+			<Group>AlwaysHorizontal</Group>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="БМ_ПанельБыстрогоЗапускаРасширеннаяПодсказка" id="2101"/>
+			<ChildItems>
+				<InputField name="БМ_ПериодБыстрогоЗапускаПоле" id="2102">
+					<DataPath>БМ_ПериодБыстрогоЗапуска</DataPath>
+					<Title><v8:item><v8:lang>ru</v8:lang><v8:content>Период</v8:content></v8:item></Title>
+					<Width>24</Width>
+					<HorizontalStretch>false</HorizontalStretch>
+					<ExtendedTooltip name="БМ_ПериодБыстрогоЗапускаПодсказка" id="2103"/>
+				</InputField>
+				<LabelDecoration name="БМ_ВидАнализа" id="2104">
+					<Title><v8:item><v8:lang>ru</v8:lang><v8:content>Вид: APDEX</v8:content></v8:item></Title>
+					<ExtendedTooltip name="БМ_ВидАнализаПодсказка" id="2105"/>
+				</LabelDecoration>
+				<LabelDecoration name="БМ_Пользователи" id="2106">
+					<Title><v8:item><v8:lang>ru</v8:lang><v8:content>Пользователи: все</v8:content></v8:item></Title>
+					<ExtendedTooltip name="БМ_ПользователиПодсказка" id="2107"/>
+				</LabelDecoration>
+				<Button name="БМ_КнопкаСформировать" id="2108">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.БМ_СформироватьБыстро</CommandName>
+					<Title><v8:item><v8:lang>ru</v8:lang><v8:content>Сформировать</v8:content></v8:item></Title>
+					<ExtendedTooltip name="БМ_КнопкаСформироватьПодсказка" id="2109"/>
+				</Button>
+				<Button name="БМ_КнопкаПодробныеНастройки" id="2110">
+					<Type>Hyperlink</Type>
+					<CommandName>Form.Command.БМ_ОткрытьПодробныеНастройки</CommandName>
+					<Title><v8:item><v8:lang>ru</v8:lang><v8:content>Подробные настройки</v8:content></v8:item></Title>
+					<ExtendedTooltip name="БМ_КнопкаПодробныеНастройкиПодсказка" id="2111"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
 		<UsualGroup name="ПанельБыстрыхНастроек" id="986">
 			<Title>
 				<v8:item>
@@ -2620,6 +2656,9 @@
 		</UsualGroup>
 	</ChildItems>
 	<Attributes>
+		<Attribute name="БМ_ПериодБыстрогоЗапуска" id="100">
+			<Type><v8:Type>v8:StandardPeriod</v8:Type></Type>
+		</Attribute>
 		<Attribute name="Отчет" id="1">
 			<Type>
 				<v8:Type>cfg:ReportObject</v8:Type>
@@ -3065,6 +3104,16 @@
 		</Attribute>
 	</Attributes>
 	<Commands>
+		<Command name="БМ_СформироватьБыстро" id="100">
+			<Title><v8:item><v8:lang>ru</v8:lang><v8:content>Сформировать</v8:content></v8:item></Title>
+			<Action>БМ_БыстрыйЗапускСформировать</Action>
+			<Representation>Text</Representation>
+		</Command>
+		<Command name="БМ_ОткрытьПодробныеНастройки" id="101">
+			<Title><v8:item><v8:lang>ru</v8:lang><v8:content>Подробные настройки</v8:content></v8:item></Title>
+			<Action>БМ_БыстрыйЗапускПодробныеНастройки</Action>
+			<Representation>Text</Representation>
+		</Command>
 		<Command name="ВсеНастройки" id="1">
 			<Title>
 				<v8:item>
